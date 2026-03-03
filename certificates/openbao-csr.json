@@ -1,0 +1,14 @@
+{
+    "CN": "OpenBao",
+    "names": [
+        {
+            "C":  "NZ",
+            "L":  "Auckland",
+            "O":  "Lab"
+        }
+    ],
+    "hosts": [
+        "localhost",
+        "127.0.0.1"
+    ]
+}
