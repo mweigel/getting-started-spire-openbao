@@ -1,3 +1,7 @@
+# Repository Now Maintained by ControlPlane
+
+This repository is now maintained by [ControlPlane](https://control-plane.io) under [controlplaneio/getting-started-spire-openbao](https://github.com/controlplaneio/getting-started-spire-openbao). Any updates and improvements will be available there.
+
 # Getting Started with Spire and OpenBao
 
 A simple demonstration of how SPIFFE and Spire can be used to issue [SPIFFE Verifiable Identity Documents (SVIDs)](https://spiffe.io/docs/latest/spiffe-about/spiffe-concepts/#spiffe-verifiable-identity-document-svid), in this case JWTs, that can then be used to authenticate to OpenBao in order to access other secret material. This tutorial is purposefully kept very simple and is designed as a starting point for people that want to begin learning about OpenBao, SPIFFE and Spire. The Bash snippets can be copied and pasted to create a minimal working installation on Linux. A more full-featured tutorial based on a Kubernetes deployment is available [here](https://spiffe.io/docs/latest/keyless/vault/readme/).
